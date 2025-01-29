@@ -22,6 +22,7 @@ This project is a simple yet structured program to determine the type of a trian
 
 ## Project Structure
 ```
+![image](https://github.com/user-attachments/assets/81545525-b792-4d55-bc22-4189eb54d12a)
 
 ```
 
@@ -45,6 +46,11 @@ This project is a simple yet structured program to determine the type of a trian
   - `IConsoleView.cs`: Interface for console interactions.
 
 - **Program.cs:** The entry point of the application.
+
+
+## ## Example Console Interaction
+![image](https://github.com/user-attachments/assets/609f044b-11cb-415c-bf42-bc625656fabb)
+
 
 ---
 
