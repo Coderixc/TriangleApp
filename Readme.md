@@ -3,6 +3,10 @@
 ## Project Overview
 This project is a simple yet structured program to determine the type of a triangle based on its three side lengths. The solution follows clean and maintainable code practices with a focus on readability, error handling, and scalability.
 
+## Problem Statement
+![image](https://github.com/user-attachments/assets/e512ac96-bf11-4cdd-943b-d55ce4a1861f)
+
+
 ### Key Features
 - **Triangle Classification:** Identifies if a triangle is Equilateral, Isosceles, or Scalene.
 - **Input Validation:** Ensures that user inputs form a valid triangle.
@@ -21,10 +25,10 @@ This project is a simple yet structured program to determine the type of a trian
 ---
 
 ## Project Structure
-```
+
 ![image](https://github.com/user-attachments/assets/81545525-b792-4d55-bc22-4189eb54d12a)
 
-```
+
 
 ### Explanation of Each Component
 - **Controllers:** Manages the flow between user input, validation, and business logic.
